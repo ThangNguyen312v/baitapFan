@@ -1,0 +1,14 @@
+E:\hoctap\classbaitap\bin\Debug\net8.0\classbaitap.exe
+E:\hoctap\classbaitap\bin\Debug\net8.0\classbaitap.deps.json
+E:\hoctap\classbaitap\bin\Debug\net8.0\classbaitap.runtimeconfig.json
+E:\hoctap\classbaitap\bin\Debug\net8.0\classbaitap.dll
+E:\hoctap\classbaitap\bin\Debug\net8.0\classbaitap.pdb
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.AssemblyInfoInputs.cache
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.AssemblyInfo.cs
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.csproj.CoreCompileInputs.cache
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.dll
+E:\hoctap\classbaitap\obj\Debug\net8.0\refint\classbaitap.dll
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.pdb
+E:\hoctap\classbaitap\obj\Debug\net8.0\classbaitap.genruntimeconfig.cache
+E:\hoctap\classbaitap\obj\Debug\net8.0\ref\classbaitap.dll
